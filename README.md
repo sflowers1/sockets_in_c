@@ -1,1 +1,1 @@
-sockets_in_c
+Academinc project for TCP & UDP socket programming in C.
